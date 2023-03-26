@@ -11,7 +11,6 @@ body {
 /* This box class is purely used for explaining how the bootstrap grid system works. */
 .box {
     background-color: rgb(155, 244, 161);
-    border: 1px solid rgb(155, 244, 161);
     border-radius: 5px;
     min-height: 50px;
     /* font-size: medium; */
